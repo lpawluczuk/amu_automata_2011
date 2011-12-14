@@ -2,9 +2,9 @@ package pl.edu.amu.wmi.daut.base;
 
 import java.util.Set;
 
- /**
-  * Klasa reprezentuje automat tworzony na podstawie podanej tablicy przejść.
-  */
+/**
+ * Klasa reprezentuje automat tworzony na podstawie podanej tablicy przejść.
+ */
 public final class FromTransitionTableMaker {
 
     private FromTransitionTableMaker() {
